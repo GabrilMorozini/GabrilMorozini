@@ -13,6 +13,7 @@
 <div>
   <p >Sou estudante de Desenvolvimento Web, busco aprender e desenvolver minhas habilidades em  tecnologia. Apaixonado por tudo relacionado à área , estou em busca de expandir meus conhecimentos e alcançar meus objetivos profissionais.</p>
   <p>Acredito no poder da programação, como agente criador de  soluções inovadoras para problemas complexos.</p>
+  <p>Aqui no meu GitHub  você poderá encontrar algumas atividades e projetos que tenho feito.</p>
 </div>
 
 <br><br>
