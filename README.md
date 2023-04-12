@@ -2,7 +2,7 @@
 
 <div align=center>
 
-  [![escrita](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!+:%29;Meu+nome+é+Gabriel+Morozini...;Tenho+20+anos+de+idade...;Sou+brasileiro+e+moro+no+Espírito+Santo...;Estudo+Desenvolvimento+Web!)](https://git.io/typing-svg)
+  [![escrita](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!+:%29;Meu+nome+é+Gabriel+Morozini...;Tenho+21+anos+de+idade...;Sou+brasileiro+e+moro+no+Espírito+Santo...;Estudo+Desenvolvimento+Web!)](https://git.io/typing-svg)
 
 </div>
 
